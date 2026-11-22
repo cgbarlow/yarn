@@ -24,6 +24,18 @@ It is a single-purpose object with a speaker, a microphone, knobs and a one-colo
 5. Second try, she gets it. The bridge lowers and the chapter ends on a hook.
 6. The radio goes quiet. One prompt goes to an adult.
 
+## Speech, the wheel and people
+
+**Rule: every challenge must be answerable by wheel.** Speech is an upgrade, not a dependency. A bad recognition day never blocks the story, and the story stays live either way: she chooses, and the service responds in the moment.
+
+| Answer type | How she answers |
+|---|---|
+| Numbers, picking an option, putting things in order, yes or no | Speech, with the Select wheel as backup |
+| "Tell me why", or anything in her own words | A person, over Talk |
+| Reading aloud | A person, over Talk |
+
+Speech here is the easy kind. The service only has to recognise one of a small set of expected answers, such as a number from 0 to 20 or one of three choices. That is much more reliable than open speech, even for young voices.
+
 ## Using the radio's features
 
 | Feature | Job in Yarn |
@@ -93,7 +105,7 @@ Yarn isn't bound by these, but they are why a family would trust the radio:
 
 ## Risks
 
-- **Children's speech.** Recognition is weaker for young voices, and code-checked answers depend on it. The knob fallback helps. Test this first.
+- **Children's speech.** Recognition is weaker for young voices. The wheel rule means the story never depends on it, but test it first to know how much speech can carry.
 - **Speed.** A live story has to answer in a second or two or it stops feeling like a conversation.
 - **Live model, young listener.** Nothing is previewed, so the filter, the ledger and tight story scaffolds carry the safety load.
 - **Running costs.** Every session costs model time. A story arc bought once in the family app, priced to cover itself, keeps "no subscription, ever" and gives the story an ending.
