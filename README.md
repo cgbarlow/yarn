@@ -26,6 +26,7 @@ In New Zealand a yarn is both a story and a chat with someone. Those are the two
 8. [Open questions](docs/08-open-questions.md)
 9. [Sources](docs/09-sources.md)
 10. [Yarn on Pop's Radio](docs/10-pops-radio.md): building it as a live Story mode on the radio, with the family in the loop
+11. [Parents and elders](docs/11-parents-and-elders.md): a framework for parents, and Pop as a storyteller
 
 Also: the original [council report](docs/council-report.md) comparing Khanmigo with the Primer.
 
